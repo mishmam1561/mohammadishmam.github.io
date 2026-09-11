@@ -180,7 +180,7 @@ button:focus-visible {
 .album-card .thumb-wrap {
   position: relative;
   overflow: hidden;
-  background: var(--line);
+  background: transparent;
   height: 346px;
   margin-bottom: 12px;
   display: flex;
