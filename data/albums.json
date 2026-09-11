@@ -1,0 +1,45 @@
+{
+  "site": {
+    "name": "Mohammad Ishmam",
+    "bio": "Recently got into photography — usually when I'm traveling, or out shooting street photography. Posting some of my favorite shots here.",
+    "email": "mishmam1561@gmail.com"
+  },
+  "albums": [
+    {
+      "slug": "morocco",
+      "title": "Morocco",
+      "cover": "images/albums/morocco/01.svg",
+      "photos": [
+        "images/albums/morocco/01.svg",
+        "images/albums/morocco/02.svg",
+        "images/albums/morocco/03.svg",
+        "images/albums/morocco/04.svg",
+        "images/albums/morocco/05.svg"
+      ]
+    },
+    {
+      "slug": "catskills-2026",
+      "title": "Catskills 2026",
+      "cover": "images/albums/catskills-2026/01.svg",
+      "photos": [
+        "images/albums/catskills-2026/01.svg",
+        "images/albums/catskills-2026/02.svg",
+        "images/albums/catskills-2026/03.svg",
+        "images/albums/catskills-2026/04.svg",
+        "images/albums/catskills-2026/05.svg"
+      ]
+    },
+    {
+      "slug": "philly",
+      "title": "Philly",
+      "cover": "images/albums/philly/01.svg",
+      "photos": [
+        "images/albums/philly/01.svg",
+        "images/albums/philly/02.svg",
+        "images/albums/philly/03.svg",
+        "images/albums/philly/04.svg",
+        "images/albums/philly/05.svg"
+      ]
+    }
+  ]
+}
