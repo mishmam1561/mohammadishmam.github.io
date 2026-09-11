@@ -202,6 +202,7 @@ button:focus-visible {
   .album-card .thumb-wrap { height: 240px; }
   .album-card img { height: 200px; }
 }
+}
 
 @media (max-width: 460px) {
   .album-grid { flex-direction: column; }
