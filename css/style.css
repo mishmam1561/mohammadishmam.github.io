@@ -155,7 +155,7 @@ button:focus-visible {
   padding: 8px 24px 80px;
   display: flex;
   flex-direction: column;
-  gap: 36px;
+  gap: 18px;
 }
 
 .album-row {
