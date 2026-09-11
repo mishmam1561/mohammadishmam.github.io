@@ -58,7 +58,7 @@ button:focus-visible {
 .wordmark {
   font-family: var(--serif);
   font-weight: 500;
-  font-size: 1.15rem;
+  font-size: 1.5rem;
   color: var(--ink);
   letter-spacing: 0.01em;
 }
