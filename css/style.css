@@ -154,6 +154,12 @@ button:focus-visible {
   margin: 0 auto;
   padding: 8px 24px 80px;
   display: flex;
+  flex-direction: column;
+  gap: 36px;
+}
+
+.album-row {
+  display: flex;
   flex-wrap: wrap;
   gap: 36px 22px;
   align-items: flex-start;
@@ -202,10 +208,9 @@ button:focus-visible {
   .album-card .thumb-wrap { height: 240px; }
   .album-card img { height: 200px; }
 }
-}
 
 @media (max-width: 460px) {
-  .album-grid { flex-direction: column; }
+  .album-row { flex-direction: column; }
   .album-card .thumb-wrap { height: auto; width: 100%; display: block; }
   .album-card img { height: auto; width: 100%; }
 }
