@@ -63,16 +63,19 @@ async function init() {
   const portraits = albums.filter(a => a._orientation === 'portrait');
   const landscapes = albums.filter(a => a._orientation === 'landscape');
 
-  portraits.forEach(album => grid.appendChild(buildCard(album)));
-
-  if (portraits.length && landscapes.length) {
-    const rowBreak = document.createElement('div');
-    rowBreak.style.flexBasis = '100%';
-    rowBreak.style.height = '0';
-    grid.appendChild(rowBreak);
+  if (portraits.length) {
+    const row = document.createElement('div');
+    row.className = 'album-row';
+    portraits.forEach(album => row.appendChild(buildCard(album)));
+    grid.appendChild(row);
   }
 
-  landscapes.forEach(album => grid.appendChild(buildCard(album)));
+  if (landscapes.length) {
+    const row = document.createElement('div');
+    row.className = 'album-row';
+    landscapes.forEach(album => row.appendChild(buildCard(album)));
+    grid.appendChild(row);
+  }
 }
 
 init();
