@@ -23,10 +23,21 @@ async function init() {
     const thumbWrap = document.createElement('div');
     thumbWrap.className = 'thumb-wrap';
 
-    const img = document.createElement('img');
+      const img = document.createElement('img');
     img.src = album.cover;
     img.alt = album.title;
     img.loading = 'lazy';
+
+    const markOrientation = () => {
+      if (img.naturalHeight > img.naturalWidth) {
+        thumbWrap.classList.add('is-portrait');
+      }
+    };
+    if (img.complete && img.naturalWidth) {
+      markOrientation();
+    } else {
+      img.addEventListener('load', markOrientation);
+    }
 
     thumbWrap.appendChild(img);
 
