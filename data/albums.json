@@ -5,19 +5,22 @@
     "email": "mishmam1561@gmail.com"
   },
   "albums": [
-   {
-  "slug": "morocco",
-  "title": "Morocco 2026",
-  "cover": "images/albums/morocco/Rainy shot.jpg",
-  "photos": [
-    "images/albums/morocco/Atlas vertical.jpg",
-    "images/albums/morocco/Camels sleeping.jpg",
-    "images/albums/morocco/Morocco Flag.jpg",
-    "images/albums/morocco/Night motorcycle.jpg",
-    "images/albums/morocco/Pretty tree.jpg",
-    "images/albums/morocco/Rainy shot.jpg"
-  ]
-},
+    {
+      "slug": "morocco",
+      "title": "Morocco 2026",
+      "cover": "images/albums/morocco 2026/Rainy shot.jpg",
+      "photos": [
+        "images/albums/morocco 2026/Atlas vertical.jpg",
+        "images/albums/morocco 2026/Camels sleeping.jpg",
+        "images/albums/morocco 2026/Car.jpg",
+        "images/albums/morocco 2026/Cat.jpg",
+        "images/albums/morocco 2026/Cutest kitty ever.jpg",
+        "images/albums/morocco 2026/Morocco Flag.jpg",
+        "images/albums/morocco 2026/Night motorcycle.jpg",
+        "images/albums/morocco 2026/Pretty tree.jpg",
+        "images/albums/morocco 2026/Rainy shot.jpg"
+      ]
+    },
     {
       "slug": "catskills-2026",
       "title": "Catskills 2026",
