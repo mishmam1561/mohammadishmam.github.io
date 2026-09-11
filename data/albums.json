@@ -8,7 +8,7 @@
     {
       "slug": "morocco",
       "title": "Morocco 2026",
-      "cover": "images/albums/morocco 2026/Camels sleeping.jpg",
+      "cover": "images/albums/morocco 2026/Rainy shot.jpg",
       "photos": [
         "images/albums/morocco 2026/Atlas vertical.jpg",
         "images/albums/morocco 2026/Camels sleeping.jpg",
@@ -24,25 +24,26 @@
     {
       "slug": "catskills-2026",
       "title": "Catskills 2026",
-      "cover": "images/albums/catskills-2026/01.svg",
+      "cover": "images/albums/catskills 2026/Fire Pit 2_Mo HCM Catskills 2026.jpg",
       "photos": [
-        "images/albums/catskills-2026/01.svg",
-        "images/albums/catskills-2026/02.svg",
-        "images/albums/catskills-2026/03.svg",
-        "images/albums/catskills-2026/04.svg",
-        "images/albums/catskills-2026/05.svg"
+        "images/albums/catskills 2026/Fire Pit 2_Mo HCM Catskills 2026.jpg",
+        "images/albums/catskills 2026/Foggy Lighting.JPG",
+        "images/albums/catskills 2026/Kyle Questions to Ponder_Mo Catskills HCM 2026.JPG",
+        "images/albums/catskills 2026/Lawn 5_Mo Catskills 2026.JPG",
+        "images/albums/catskills 2026/Nice Lighting Beer Die_Mo Catskills 2026.JPG",
+        "images/albums/catskills 2026/Regina and Cameron Beer Die_Mo Catskills 2026.JPG",
+        "images/albums/catskills 2026/Waterfall Downview_Mo Catskills HCM 2026.JPG"
       ]
     },
     {
       "slug": "philly",
       "title": "Philly",
-      "cover": "images/albums/philly/01.svg",
+      "cover": "images/albums/philly 2024/DSC_0234.jpeg",
       "photos": [
-        "images/albums/philly/01.svg",
-        "images/albums/philly/02.svg",
-        "images/albums/philly/03.svg",
-        "images/albums/philly/04.svg",
-        "images/albums/philly/05.svg"
+        "images/albums/philly 2024/DSC_0197.jpeg",
+        "images/albums/philly 2024/DSC_0218.jpeg",
+        "images/albums/philly 2024/DSC_0234.jpeg",
+        "images/albums/philly 2024/DSC_4926.jpeg"
       ]
     }
   ]
