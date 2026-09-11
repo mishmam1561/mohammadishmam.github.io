@@ -190,7 +190,7 @@ button:focus-visible {
   height: 312px;
   margin-bottom: 12px;
   display: flex;
-  align-items: center;
+  align-items: flex-end;
 }
 
 .album-card img {
